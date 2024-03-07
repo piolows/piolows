@@ -8,6 +8,7 @@ Currently studying software development at 42 Abu Dhabi. Aspiring game developer
 
 * 🌍  Abu Dhabi, UAE
 * ✉️  [piolodale@gmail.com](mailto:piolodale@gmail.com)
+* 42 Intra: ppolinta
 
 
 ### Socials
