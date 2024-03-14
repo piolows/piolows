@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Currently studying software development at 42 Abu Dhabi. Aspiring game developer.<br><br>* 🌍 Abu Dhabi, UAE<br>* ✉️ ppolinta@student.42abudhabi.ae / piolodale@gmail.com<br>* 42 Intra: ppolinta</p>
+<p align="left">Welcome to my Github.<br>Currently studying software development at 42 Abu Dhabi. My repositories include my projects from the 42 cursus and personal projects.<br> Aspiring game developer.<br><br>* 🌍 Abu Dhabi, UAE<br>* ✉️ ppolinta@student.42abudhabi.ae / piolodale@gmail.com<br>* 42 Intra: ppolinta</p>
 
 ###
 
