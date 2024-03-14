@@ -20,19 +20,19 @@
 ###
 
 <div align="center">
-  <a href="discordapp.com/users/340836344878333952" target="_blank">
+  <a href="https://www.discordapp.com/users/340836344878333952" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
-  <a href="medium.com/@piolodale" target="_blank">
+  <a href="https://www.medium.com/@piolodale" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="medium logo"  />
   </a>
   <a href="https://www.linkedin.com/in/piolo-polintan/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <a href="instagram.com/piolows" target="_blank">
+  <a href="https://www.instagram.com/piolows" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
-  <a href="paypal.me/piolodale" target="_blank">
+  <a href="https://www.paypal.me/piolodale" target="_blank">
     <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="paypal logo"  />
   </a>
 </div>
